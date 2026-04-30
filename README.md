@@ -1,4 +1,3 @@
-  <img src="[https://developers.google.com/community/images/gdg-logo.svg](https://www.facebook.com/photo/?fbid=226921076591356&set=a.226921089924688)" alt="GDG Logo" width="120"/>
 <div align="center">
   <img width="1640" height="856" alt="265247486_121055683725122_7146823100146765891_n" src="https://github.com/user-attachments/assets/adabcfbd-cfae-4b49-87c1-0a3052f02de4" />
 
