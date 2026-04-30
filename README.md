@@ -1,5 +1,5 @@
-<div align="center">
   <img src="[https://developers.google.com/community/images/gdg-logo.svg](https://www.facebook.com/photo/?fbid=226921076591356&set=a.226921089924688)" alt="GDG Logo" width="120"/>
+<div align="center">
   
   <h1>🚀 Build with AI - GDG Assiut 2025</h1>
   <p><i>Empowering Developers to Build the Future with Artificial Intelligence</i></p>
