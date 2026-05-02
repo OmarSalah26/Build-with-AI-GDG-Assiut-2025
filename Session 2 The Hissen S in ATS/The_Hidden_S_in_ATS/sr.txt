@@ -1,0 +1,31 @@
+Senior AI Engineer (Data Scientist → AI Engineer Evolution)
+
+
+
+ We’re looking for someone who has grown from Data Science into hands‑on AI Engineering — building, deploying, and operating AI systems in production (not just notebooks/POCs).
+
+
+
+ • Location: Abu Dhabi, UAE (Onsite)
+
+ • Type: 10‑month extendable contract
+
+
+
+Responsibilities
+
+Analyse large datasets and build advanced ML models (predictive, time‑series, deep learning).
+Develop and deploy GenAI applications, including LLM fine‑tuning, RAG pipelines, and prompt‑engineering.
+Build agentic AI workflows that automate tasks, make decisions, and interact with tools/APIs.
+Design end‑to‑end AI/ML pipelines with engineering teams (data ingestion, model serving, monitoring).
+Integrate AI systems into production platforms with high reliability and performance.
+
+
+Qualifications and Skills
+
+Bachelor’s/Master’s in Computer Science, Data Science, AI, Engineering, or related field.
+7+ years in Data Science or ML roles, with hands‑on GenAI/LLM experience.
+Strong Python (pandas, NumPy, scikit‑learn, PyTorch/TensorFlow) and SQL skills.
+Experience deploying ML/AI models in production.
+Familiarity with LLMOps/MLOps, vector databases, and cloud platforms (AWS/Azure/GCP).
+Strong communication and stakeholder‑management skills.
