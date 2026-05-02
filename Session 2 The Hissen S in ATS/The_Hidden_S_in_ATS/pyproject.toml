@@ -1,0 +1,26 @@
+[project]
+name = "gemini-ats-scorer"
+version = "0.1.0"
+description = "ATS system based on Google Gemini that reads a pdf file and scores it against job description"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-genai",
+    "PyMuPDF",
+    "pydantic"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "mypy",
+    "black"
+]
+ui = [
+    "streamlit",
+    "pandas",
+    "python-dotenv"
+]
+
+[project.scripts]
+gemini-ats-scorer = "gemini_ats_scorer.__main__:main"

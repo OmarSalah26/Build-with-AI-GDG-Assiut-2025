@@ -1,0 +1,1 @@
+I want to build an ats system based on google gemini that reads a pdf file and score it againest job description from text file 

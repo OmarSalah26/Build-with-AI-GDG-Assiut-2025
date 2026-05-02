@@ -1,0 +1,40 @@
+
+AI71 is an industry leader in artificial intelligence, delivering innovative solutions that empower developers, businesses and governments to solve complex challenges. AI71 builds secure, enterprise-ready applications powered by cutting-edge technology—tailored for knowledge workers and sector-specific needs. AI71 bridges the gap between advanced AI and real-world impact. Guided by a strong commitment to research and responsibility, we create transformative solutions that drive progress and empower communities.
+
+The Role: 
+
+We are seeking a highly skilled Frontend Engineer to design, develop, and enhance user interfaces for AI-powered applications. You will collaborate closely with backend engineers, UX/UI designers, and ML engineers to create intuitive, high-performance, and visually appealing web applications that showcase cutting-edge AI capabilities.
+
+What You'll Do:
+
+Develop and maintain responsive, interactive, and scalable frontend applications. 
+Implement and optimize user interfaces using modern JavaScript frameworks (React, Vue.js, Next.js, or Angular). 
+Work closely with designers to translate wireframes and prototypes into high-quality code. 
+Develop a robust 3D viewer component in the application to render heavy models (likely using WebGL with libraries such as Three.js, IFC.js, or Xeokit). Ensure that the model can be loaded, rotated, zoomed, and navigated smoothly by the user. This includes rendering building elements with their properties and possibly enabling selection/highlighting of individual components.
+Optimize rendering performance for heavy 3d models (e.g. this might involve level-of-detail (LOD) techniques, frustum culling (not rendering objects off-screen), or simplifying the model mesh for visualization). Additionally, manage efficient data flow with pagination or lazy-load lists of results if they are long.
+Ensure seamless integration with backend APIs and AI-driven features. 
+Optimize application performance, accessibility, and responsiveness. 
+Maintain code quality through best practices, code reviews, and testing. 
+Stay up to date with emerging frontend technologies and AI-driven UI innovations. 
+
+What You’ll Bring:
+
+Bachelor's or Master’s degree in Computer Science, Software Engineering, or a related field. 
+3+ years of experience in front-end development, with expertise in React, Vue.js, or Angular. 
+Strong proficiency in HTML5, CSS, JavaScript, and TypeScript. 
+Experience with RESTful APIs, GraphQL, and WebSockets. 
+Experience or familiarity with WebGL and libraries built on it (Three.js, Babylon.js, or specialized BIM viewers)
+Knowledge of frontend performance optimization and accessibility standards. 
+Experience with version control systems like Git. 
+Strong problem-solving skills and ability to work in a fast-paced environment. 
+Understanding of DevOps practices, CI/CD pipelines, and frontend testing frameworks (Jest, Cypress). 
+
+Preferred Qualifications: 
+
+Experience with UI/UX principles and design systems. 
+Knowledge of server-side rendering (Next.js) and static site generation. 
+Exposure to AI-driven UI components and visualization frameworks. 
+Experience in developing user interfaces for BIM, CAD, or 3D modeling software.
+Hands-on experience with IFC.js (an open-source IFC viewing library) or Three.js projects involving large models. Knowledge of loading IFC or glTF models, parsing IFC structure in JavaScript, and dealing with things like BIM model units and coordinates on the front-end.
+State Management Libraries: Familiarity with state management patterns or libraries (Redux, Vuex, etc.) for handling complex application state. In a BIM viewer with many interactions (selection, filtering, toggling rule views), a solid state management approach can prevent bugs.
+Testing: Experience writing front-end tests (Jest, Cypress, etc.), especially for interactive UI components. Given the short POC timeline, testing might be minimal, but a candidate who knows how to quickly test critical functionality (e.g., that clicking a rule highlights the right object) can improve reliability.

@@ -1,0 +1,38 @@
+
+About The Team
+
+Our 18,000 employees work in over 60 countries with one corporate mission, to "co-innovate tomorrow". We are looking for dynamic colleagues who share our passion for technology and care for our planet. In return, we offer you great career opportunities to grow yourself in a truly global culture where respect, value creation, collaboration, integrity, and gratitude are highly valued and exhibited in everything we do.
+
+Job Purpose
+
+We are seeking a highly skilled AI/ML Engineer with expertise in Data Science to design, implement, and deliver advanced AI-driven solutions for the Oil & Gas and Petrochemical industries. The ideal candidate will possess strong technical skills in Python, machine learning, and data analytics, combined with the ability to collaborate with cross-functional teams and engage with customers to solve complex business challenges. The individual is also responsible for owning AI/ML business outcomes and implementation strategy while supporting Digital Enterprise Business Unit / Solution Division in developing a differentiation in a high-growth competitive environment in Yokogawa Middle East & Africa region.
+
+Key Responsibilities & Accountabilities
+
+Implement AI/ML solutions using Python and perform data analysis in collaboration with CoE solution architects with Oil & Gas domain expertise.
+Conduct technical analysis leveraging AI/ML technologies and Data Science skills, including gathering requirements, performing gap analysis, and identifying opportunities to apply AI/ML to solve customer challenges.
+Provide guidance on suitable AI/ML and data analytics solutions, and support business portfolio management, solution design, and demonstrations.
+Ensure client expectations are clearly understood and met through the application of AI/ML and Data Science solutions.
+Manage the timely and high-quality completion of assigned deliverables.
+Ensure adherence to AI/ML and Data Science best practices and methodologies throughout project execution.
+Offer expert knowledge and experience to estimate the technical effort required for implementing complex AI solutions.
+
+Qualification And Experience
+
+Bachelor’s degree in Engineering or Computer Science with a focus on AI/ML/Data Science, plus a minimum of 2 years of industry experience in AI-based software development or related engineering disciplines.
+Willingness and ability to travel across the Yokogawa Middle East & Africa region.
+
+Skills
+
+Strong communication skills, collaborative mindset, and ability to energize and work effectively within a team.
+Proficiency in Python programming with demonstrated experience in implementing AI/ML solutions.
+Solid understanding of machine learning concepts (e.g., Supervised, Unsupervised Learning, Reinforcement Learning, Large Language Models) and hands-on experience applying algorithms such as Linear Regression, K-Means, Support Vector Machines, XGBoost, etc in Python.
+Comprehensive knowledge of Data Science, including statistical analysis, machine learning, and data visualization techniques.
+Experience with cloud-based machine learning platforms (e.g., Azure ML Studio, AWS SageMaker) is a plus.
+Familiarity with Oil & Gas, Petrochemicals, or specialized chemical domains is an advantage.
+
+Yokogawa is an Equal Opportunity Employer. Yokogawa wants a diverse, equitable and inclusive culture. We will actively recruit, develop, and promote people from a variety of backgrounds who differ in terms of experience, knowledge, thinking styles, perspective, cultural background, and socioeconomic status. We will not discriminate based on race, skin color, age, sex, gender identity and expression, sexual orientation, religion, belief, political opinion, nationality, ethnicity, place of origin, disability, family relations or any other circumstances. Yokogawa values differences and enables everyone to belong, contribute, succeed, and demonstrate their full potential.
+
+Are you being referred to one of our roles? If so, ask your connection at Yokogawa
+
+about our Employee Referral process!
