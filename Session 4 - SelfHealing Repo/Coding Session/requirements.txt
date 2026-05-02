@@ -1,0 +1,7 @@
+google-genai
+pydantic
+python-dotenv
+PyGithub
+rich
+fastapi
+uvicorn
